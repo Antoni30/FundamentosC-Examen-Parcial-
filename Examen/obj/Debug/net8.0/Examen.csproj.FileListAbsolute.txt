@@ -1,0 +1,14 @@
+D:\Antoni\Universidad\WEB ABANZADA\Examen\bin\Debug\net8.0\Examen.exe
+D:\Antoni\Universidad\WEB ABANZADA\Examen\bin\Debug\net8.0\Examen.deps.json
+D:\Antoni\Universidad\WEB ABANZADA\Examen\bin\Debug\net8.0\Examen.runtimeconfig.json
+D:\Antoni\Universidad\WEB ABANZADA\Examen\bin\Debug\net8.0\Examen.dll
+D:\Antoni\Universidad\WEB ABANZADA\Examen\bin\Debug\net8.0\Examen.pdb
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\Examen.AssemblyInfoInputs.cache
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\Examen.AssemblyInfo.cs
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\Examen.csproj.CoreCompileInputs.cache
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\Examen.dll
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\refint\Examen.dll
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\Examen.pdb
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\Examen.genruntimeconfig.cache
+D:\Antoni\Universidad\WEB ABANZADA\Examen\obj\Debug\net8.0\ref\Examen.dll
